@@ -1,0 +1,9 @@
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\bin\Debug\SCSMservicios.exe
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\bin\Debug\SCSMservicios.pdb
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\bin\Debug\SCSMservicios.xml
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\obj\Debug\SCSMservicios.SCSM.resources
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\obj\Debug\SCSMservicios.Resources.resources
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\obj\Debug\SCSMservicios.vbproj.GenerateResource.Cache
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\obj\Debug\SCSMservicios.exe
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\obj\Debug\SCSMservicios.xml
+E:\OneDrive\VisualStudioVB2013\SCSMservicios\SCSMservicios\obj\Debug\SCSMservicios.pdb
